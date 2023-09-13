@@ -1,2 +1,1 @@
-# Weather_App
-A project on HTML CSS and Javascript and uses a Rapid API
+The Weather App is a web-based application created using JavaScript, HTML, and CSS, featuring seamless integration with the RapidAPI platform. This project provides users with real-time weather information for locations worldwide, delivering accurate forecasts and current weather conditions. By combining user-friendly design with the power of RapidAPI, this app offers a reliable resource for weather updates.
